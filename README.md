@@ -3,7 +3,7 @@
 A desktop cinema management application in Java: browse what's showing, book seats,
 and let staff manage the catalogue.
 
-Built as a coursework project for Computer Systems & Networks.
+My first coding project, built during my degree in Computer Systems & Networks.
 
 ## What it does
 
